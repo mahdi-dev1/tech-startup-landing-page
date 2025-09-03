@@ -1,4 +1,4 @@
-# Project Name
+# TechStart
 
 A simple website showcasing features and testimonials of a tech start-up company. It demonstrates
 my abilities to do modern layouts, responsive design and animations.
